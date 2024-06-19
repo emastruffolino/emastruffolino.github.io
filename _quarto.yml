@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Emanuela Struffolino"
+  site-url: https://emanuela-struffolino.com
+  description: "Emanuela Struffolino's personal website"
+  image: "/images/struffolino.jpg"
+#favicon: "/images/struffolino.jpg"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@EmStruffolino"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.html
+        text: Publications
+      #- href: research
+       # text: Research
+      - href: dissemination.html
+        text: Dissemination
+      - href: teaching.html
+        text: Teaching
+      - href: data.html
+        text: Data
+      - href: cv.pdf
+        text: CV
+        
+    right:
+      - text: "{{< ai orcid >}}"
+        href: https://orcid.org/0000-0002-6635-8748 
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.co.uk/citations?user=YtwliTgAAAAJ&hl=en
+      - icon: github
+        href: https://github.com/emastruffolino
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+
+

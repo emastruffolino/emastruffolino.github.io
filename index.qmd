@@ -1,0 +1,128 @@
+---
+title: "Emanuela Struffolino"
+toc: false
+about:
+  id: about-content
+  template: trestles
+  image: "/images/struffolino.jpg"
+  image-shape: rectangle
+  links:
+    - text: "{{< fa envelope>}} Mail"
+      href: mailto:emanuela.struffolino@unimi.it
+    - text: "{{< fa graduation-cap>}} Google Scholar"
+      href: https://scholar.google.co.uk/citations?user=YtwliTgAAAAJ&hl=en
+    - text: "{{< fa brands orcid>}} ORCID"
+      href: https://orcid.org/0000-0002-6635-8748
+    #- text: "{{< fa brands twitter>}} Twitter"
+     # href: https://twitter.com/EmStruffolino
+    - text: "{{< fa brands github>}} GitHub"
+      href: https://github.com/emastruffolino 
+---
+
+:::{#about-content}
+
+Since June 2024, I am Associate Professor of Economic Sociology at the <a href= https://www.unimi.it/it/ugov/person/emanuela-struffolino> University of Milan, Department of Social and Political Sciences</a>. 
+
+I am a member of the Executive Board of the <a href= https://sequenceanalysis.org/ > SAA-Sequence Analysis Association </a> since 2018. I am Associate Editor of the <a href= https://ubp.uni-bamberg.de/jfr/index.php/jfr> Journal of Family Research</a> and a member of the editorial board of <a href= https://www.francoangeli.it/riviste/sommario/83/sociologia-del-lavoro> Sociologia del Lavoro</a>.
+
+Between October 2020 and March 2021, I was guest Professor of Social Policy (W2 Vertretungsprofessur) at the <a href= https://www.sowi.hu-berlin.de/de/lehrbereiche/sozpolsoz/team/1693053> Humboldt-Universität zu Berlin</a>. Between April and September 2020, I was guest Professor of Macrosociology (W3 Vertretungsprofessur) at the Institute of Sociology at the <a href= https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/makrosoziologie/mitarbeiter/lehrstuhlinhaber/emanuela-struffolino.html > Freie Universität Berlin </a>. 
+
+Between 2014 to 2019 I was a postdoctoral fellow at the *Swiss National Centre for Competence in Research* <a href= https://www.lives-nccr.ch/en > "LIVES - Overcoming vulnerability: A life-course perspective"</a> at the University of Lausanne, at research group <a href= https://wzb.eu/de/news/demography-and-inequality > "Demography and Inequality"</a> Research Group and then at the the research unit <a href= https://www.wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets > "Skill Formation and Labor Markets"</a> at the <a href= https://wzb.eu/de > WZB Berlin Social Science Center</a>. 
+
+I obtained my PhD in Sociology at the <a href= https://www.sociologia.unimib.it/it > University of Milano-Bicocca</a>. 
+
+On this website, you can find information on my publications and ongoing research and teaching.
+
+
+## Interests
+
+- Labor market 
+- Poverty 
+- Gender inequalities
+- Social stratification
+- Social-demography
+- Methods
+
+
+<br>
+
+::: 
+
+###
+
+:::::: {.column-screen .gray-background}
+
+::::: {.column-page-body .columns}
+
+:::: {.column width="30%"}
+### Sequence Analysis {#sequence-analysis}
+::::
+
+:::: {.column width="70%"}
+
+::: {.card}
+<div>
+<img src="https://sa-book.github.io/images/QASS.png" align="right" width="20%"  style="padding: 5px; padding-top: 25px;">
+
+### Sequence Analysis - Book & Companion Site
+Companion website for the little green QASS book on ‘Sequence Analysis’ by Marcel Raab & Emanuela Struffolino providing data and code to replicate the examples shown in the book & some bonus material.
+
+<a href="https://us.sagepub.com/en-us/nam/sequence-analysis/book272086" class="btn btn-primary"><i class="fa-solid fa-link"></i>&nbsp;&nbsp;book</a>
+<a href="https://sa-book.github.io/" class="btn btn-primary"><i class="fa-solid fa-link"></i>&nbsp;&nbsp;companion website</a>
+
+</div>
+:::
+
+
+::: {.card}
+
+### Sequence analysis workshops
+Together with Marcel Raab, I teach introductory and advanced workshops on sequence analysis. If you are interested in having a workshop at your institution drop us an e-mail! 
+
+:::
+
+::::
+
+:::::
+
+::::::
+
+<br>
+
+::::: {.column-page-body .columns}
+
+:::: {.column width="30%"}
+### Recent Publications {#publications}
+::::
+
+:::: {.column width="70%"}
+
+::: {.card}
+<a href="publications" class="card-link">
+<div>
+<img src="/images/smr.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
+
+### Life-course-sensitive analysis of group inequalities: Combining Sequence Analysis with the Kitagawa-Oaxaca-Blinder decomposition.
+*Carla Rowold, Emanuela Struffolino, and Anette E. Fasang*
+
+</div>
+</a>
+:::
+
+::: {.card}
+<a href="publications" class="card-link">
+<div>
+<img src="/images/ejp.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
+
+### Identifying and qualifying deviant cases in clusters of sequences: The why and the how.
+*Raffaella Piccarreta and Emanuela Struffolino*
+
+</div>
+</a>
+:::
+
+<a href="publications.html"></i><i class="bi bi-arrow-right-circle-fill"></i>&nbsp;&nbsp;SEE ALL PUBLICATIONS </a>
+
+::::
+
+:::::

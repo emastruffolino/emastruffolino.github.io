@@ -4,6 +4,8 @@ title: "Pubblications"
 
 <span style="color: #FF4785;">**ARTICLES IN PEER-REVIEWED JOURNALS**</span>
 
+- Fauser S., **Struffolino E.**, Levanon A. (2024 - forthcoming), [**Converging mothers’ employment trajectories between East and West Germany? A focus on the 2008-childcare-reform,**](), *Journal of Marriage and Family*. Open access. [Replication files]().
+
 - Zagel H., **Struffolino E.** (2024 - forthcoming), [**Crisis-proof households? How social policy responses to the Covid-19 pandemic imagined work and care in Germany**](), *Journal of Social Policy*. Open access. [Replication files]().
 
 - Hornung M., **Struffolino E.**, Zagel H. (2024 - forthcoming), [**Poverty among migrant, mixed, and non-migrant households:  the role of non-teleworkability and single-earnership in Germany**](), *Journal of Ethnic and Migration Studies*. Open access. [Replication files]().

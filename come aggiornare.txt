@@ -6,8 +6,7 @@ emanuela-struffolino.com.Rproj
 
 make changes 
 render
-git top left
-commit
+git top left --> commit
 select changes
 commit
 push

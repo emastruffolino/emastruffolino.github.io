@@ -1,0 +1,13 @@
+
+
+emanu --> Emanuela.struffolino.com 
+
+emanuela-struffolino.com.Rproj
+
+make changes 
+render
+git top left
+commit
+select changes
+commit
+push

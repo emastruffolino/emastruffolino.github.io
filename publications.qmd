@@ -4,6 +4,12 @@ title: "Pubblications"
 
 <span style="color: #FF4785;">**ARTICLES IN PEER-REVIEWED JOURNALS**</span>
 
+- Zagel H., **Struffolino E.** (2024 - forthcoming), [**Crisis-proof households? How social policy responses to the Covid-19 pandemic imagined work and care in Germany**](), *Journal of Social Policy*. Open access. [Replication files]().
+
+- Hornung M., **Struffolino E.**, Zagel H. (2024 - forthcoming), [**Poverty among migrant, mixed, and non-migrant households:  the role of non-teleworkability and single-earnership in Germany**](), *Journal of Ethnic and Migration Studies*. Open access. [Replication files]().
+
+- Piccarreta R., **Struffolino E.** (2024), [**Tools for analysing fuzzy clusters of sequences data**](10.4054/DemRes.2024.51.16), *Demographic Research*, vol. 51(1), pp.553-576. Open access. [Replication files](https://www.demographic-research.org/articles/volume/51/16/).
+
 - Rowold C., **Struffolino E.**, Fasang A. (2024), [**Life-course-sensitive analysis of group inequalities: Combining Sequence Analysis with the Kitagawa-Oaxaca-Blinder decomposition**](https://doi.org/10.1177/00491241231224226). *Sociological Methods and Research*, online first. Open access. [Replication files](https://osf.io/ke3mg/).
 
 - Piccarreta R., **Struffolino E.** (2024), [**Identifying and qualifying deviant cases in clusters of sequences: The why and the how**](https://doi.org/10.1007/s10680-023-09682-3), *European Journal of Population*, vol. 40(1). Open access. [Replication files](https://github.com/raffaellapiccarreta/Deviant-sequences-why-and-how).

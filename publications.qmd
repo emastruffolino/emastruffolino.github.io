@@ -8,7 +8,7 @@ title: "Pubblications"
 
 - Zagel H., **Struffolino E.** (2024 - forthcoming), [**Crisis-proof households? How social policy responses to the Covid-19 pandemic imagined work and care in Germany**](), *Journal of Social Policy*. Open access. [Replication files]().
 
-- Hornung M., **Struffolino E.**, Zagel H. (2024 - forthcoming), [**Poverty among migrant, mixed, and non-migrant households:  the role of non-teleworkability and single-earnership in Germany**](), *Journal of Ethnic and Migration Studies*. Open access. [Replication files]().
+- Hornung M., **Struffolino E.**, Zagel H. (2024 - forthcoming), [**Poverty among migrant, mixed, and non-migrant households:  the role of non-teleworkability and single-earnership in Germany**](https://www.tandfonline.com/doi/full/10.1080/1369183X.2024.2404219), *Journal of Ethnic and Migration Studies*. Open access. [Replication files](https://osf.io/n47fq/).
 
 - Piccarreta R., **Struffolino E.** (2024), [**Tools for analysing fuzzy clusters of sequences data**](10.4054/DemRes.2024.51.16), *Demographic Research*, vol. 51(1), pp.553-576. Open access. [Replication files](https://www.demographic-research.org/articles/volume/51/16/).
 

@@ -4,12 +4,13 @@ title: "Teaching"
 
 <span style="color: #FF4785;">**Other trainings**</span>
 
-**Sequence analysis in the social sciences**
-- GESIS Training Courses (with Marcel Raab) 2024, 2023, 2022, 2021, 2020, 2019, 2018.
-- University of Michigan, Population Dynamics and Health Program, 2022.
-- INVEST, University of Turku, 2022.
-- Humboldt-Universität zu Berlin, 2020.
-- University of Trento, 2018.
+- **Sequence analysis for the social sciences**
+
+  - GESIS Training Courses (with Marcel Raab) 2005 (planned), 2024, 2023, 2022, 2021, 2020, 2019, 2018.
+  - University of Michigan, Population Dynamics and Health Program, 2022.
+  - INVEST, University of Turku, 2022.
+  - Humboldt-Universität zu Berlin, 2020.
+  - University of Trento, 2018.
 
 <span style="color: #FF4785;">**Doctoral programs**</span>
 

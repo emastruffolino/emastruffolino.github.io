@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.553">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -93,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -139,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -155,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-about-trestles content">
+<div class="quarto-about-trestles">
   <div class="about-entity">
     <img src="/images/struffolino.jpg" class="about-image
   rectangle " style="width: 20em;">
@@ -183,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
   <div class="about-contents"><div id="about-content">
 <p>Since June 2024, I am Associate Professor of Economic Sociology at the <a href="https://www.unimi.it/it/ugov/person/emanuela-struffolino"> University of Milan, Department of Social and Political Sciences</a>.</p>
-<p>I am a member of the Executive Board of the <a href="https://sequenceanalysis.org/"> SAA-Sequence Analysis Association </a> since 2018. I am Associate Editor of the <a href="https://ubp.uni-bamberg.de/jfr/index.php/jfr"> Journal of Family Research</a> and a member of the editorial board of <a href="https://www.francoangeli.it/riviste/sommario/83/sociologia-del-lavoro"> Sociologia del Lavoro</a>.</p>
+<p>I am a member of the Executive Board of the <a href="https://sequenceanalysis.org/"> SAA-Sequence Analysis Association </a> since 2018. I am Associate Editor of the <a href="https://ubp.uni-bamberg.de/jfr/index.php/jfr"> Journal of Family Research</a>, Deputy Editor of <a href="https://read.dukeupress.edu/demography"> Demography</a>, and member of the editorial board of <a href="https://www.francoangeli.it/riviste/sommario/83/sociologia-del-lavoro"> Sociologia del Lavoro</a>.</p>
 <p>Between October 2020 and March 2021, I was guest Professor of Social Policy (W2 Vertretungsprofessur) at the <a href="https://www.sowi.hu-berlin.de/de/lehrbereiche/sozpolsoz/team/1693053"> Humboldt-Universität zu Berlin</a>. Between April and September 2020, I was guest Professor of Macrosociology (W3 Vertretungsprofessur) at the Institute of Sociology at the <a href="https://www.polsoz.fu-berlin.de/en/soziologie/arbeitsbereiche/makrosoziologie/mitarbeiter/lehrstuhlinhaber/emanuela-struffolino.html"> Freie Universität Berlin </a>.</p>
 <p>Between 2014 to 2019 I was a postdoctoral fellow at the <em>Swiss National Centre for Competence in Research</em> <a href="https://www.lives-nccr.ch/en"> “LIVES - Overcoming vulnerability: A life-course perspective”</a> at the University of Lausanne, at research group <a href="https://wzb.eu/de/news/demography-and-inequality"> “Demography and Inequality”</a> Research Group and then at the the research unit <a href="https://www.wzb.eu/en/research/dynamics-of-social-inequalities/skill-formation-and-labor-markets"> “Skill Formation and Labor Markets”</a> at the <a href="https://wzb.eu/de"> WZB Berlin Social Science Center</a>.</p>
 <p>I obtained my PhD in Sociology at the <a href="https://www.sociologia.unimib.it/it"> University of Milano-Bicocca</a>.</p>
@@ -295,18 +295,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -338,7 +327,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/emanuela-struffolino\.com");
@@ -346,7 +357,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

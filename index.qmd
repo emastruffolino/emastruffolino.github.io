@@ -97,13 +97,27 @@ Together with Marcel Raab, I teach introductory and advanced workshops on sequen
 
 :::: {.column width="70%"}
 
+
 ::: {.card}
 <a href="publications" class="card-link">
 <div>
-<img src="/images/smr.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
+<img src="/images/jsp.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
 
-### Life-course-sensitive analysis of group inequalities: Combining Sequence Analysis with the Kitagawa-Oaxaca-Blinder decomposition.
-*Carla Rowold, Emanuela Struffolino, and Anette E. Fasang*
+### Crisis-proof households? How social policy responses to the Covid-19 pandemic imagined work and care in Germany.
+*Hannah Zagel and Emanuela Struffolino*
+
+</div>
+</a>
+:::
+
+
+::: {.card}
+<a href="publications" class="card-link">
+<div>
+<img src="/images/jems.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
+
+### Poverty among migrant, mixed, and non-migrant households:  the role of non-teleworkability and single-earnership in Germany.
+*Maria Hornung, Emanuela Struffolino, and Hannah Zagel*
 
 </div>
 </a>
@@ -112,9 +126,9 @@ Together with Marcel Raab, I teach introductory and advanced workshops on sequen
 ::: {.card}
 <a href="publications" class="card-link">
 <div>
-<img src="/images/ejp.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
+<img src="/images/dr.png" align="right" width="20%"  style="padding: 10px; padding-top: 25px;">
 
-### Identifying and qualifying deviant cases in clusters of sequences: The why and the how.
+### Tools for analysing fuzzy clusters of sequences data
 *Raffaella Piccarreta and Emanuela Struffolino*
 
 </div>

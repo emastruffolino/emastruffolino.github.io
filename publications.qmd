@@ -4,7 +4,6 @@ title: "Pubblications"
 
 <span style="color: #FF4785;">**ARTICLES IN PEER-REVIEWED JOURNALS**</span>
 
-- Fauser S., **Struffolino E.**, Levanon A. (2025), [**Converging mothers’ employment trajectories between East and West Germany? A focus on the 2008-childcare-reform,**](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13040), *Journal of Marriage and Family*, vol 87, pp. 566–589. Open access. [Replication files](https://osf.io/a3qug/).
 
 - Hornung M., **Struffolino E.**, Zagel H. (2025), [**Poverty among migrant, mixed, and non-migrant households:  the role of non-teleworkability and single-earnership in Germany**](https://www.tandfonline.com/doi/full/10.1080/1369183X.2024.2404219), *Journal of Ethnic and Migration Studies*, vol. 51(5), pp. 1294–1321. Open access. [Replication files](https://osf.io/n47fq/).
 

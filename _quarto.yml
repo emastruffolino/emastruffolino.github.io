@@ -19,8 +19,8 @@ website:
         text: Home
       - href: publications.html
         text: Publications
-      - href: workinprogress.html
-        text: In progress
+      - href: progress.html
+        text: "In progress"
       #- href: research
        # text: Research
       - href: dissemination.html

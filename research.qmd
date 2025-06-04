@@ -1,14 +1,14 @@
 ---
-title: "Research"
+title: "Projects"
 ---
 
-<span style="color: #54278f;"><span style="font-size: 24px;">As PI (scroll-down for details):</span>
+<span style="color: #54278f;"><span style="font-size: 24px;">As PI (details below):</span>
 
   * Households' labor supply arrangements and in-work poverty: longitudinal dynamics in a cross-country comparison.
 
   * Haushaltsstrukturen und ökonomische Risiken während der COVID-19 Pandemie in Ost- und Westdeutschland: Kompensation oder Akkumulation? (KOMPAKK).
   
-  *Understanding Family Demographic Processes and In-Work Poverty in Europe.
+  * Understanding Family Demographic Processes and In-Work Poverty in Europe.
 
 <span style="color: #54278f;"><span style="font-size: 24px;">As a collaborator:</span>
 

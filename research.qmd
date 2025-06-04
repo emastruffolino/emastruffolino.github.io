@@ -2,19 +2,37 @@
 title: "Research"
 ---
 
+<span style="color: #54278f;"><span style="font-size: 24px;">As PI (scroll-down for details):</span>
+
+  * Households' labor supply arrangements and in-work poverty: longitudinal dynamics in a cross-country comparison.
+
+  * Haushaltsstrukturen und ökonomische Risiken während der COVID-19 Pandemie in Ost- und Westdeutschland: Kompensation oder Akkumulation? (KOMPAKK).
+  
+  *Understanding Family Demographic Processes and In-Work Poverty in Europe.
+
+<span style="color: #54278f;"><span style="font-size: 24px;">As a collaborator:</span>
+
+  * [Understanding Trajectories of Wealth Accumulation and Their Variability (WEALTHTRAJECT)](https://pmlersch.github.io/projects/#understanding-trajectories-of-wealth-accumulation-and-their-variability-wealthtraject
+), PI Philipp Lersch, German Institute for Economic Research (DIW Berlin) and Humboldt-University of Berlin, 2024-2029 financed by European Research Council (ERC). 
+
+---
+
 <span style="color: #FF4785;"><span style="font-size: 24px;">**Households' labor supply arrangements and in-work poverty: longitudinal dynamics in a cross-country comparison**</span></span>
 
 
-This research project aims to address two questions from a country-comparative perspective: 1) how decision-making processes about the labor supply of household members are related to the poverty risk of employed persons and 2) how the labor supply of households influences poverty risks of employed persons over the life course in different welfare states. The labor supply of households should be particularly decisive for the poverty risk of working people when decommodification is declining and defamilization is underdeveloped. This project compares Italy and Israel, with strongly declining decommodification and weak defamilization in the 1990s and 2000s, with Germany, where the decline in decommodification was much weaker and was accompanied by increasing defamilization. Empirically, the first part of the project consists of conducting a survey experiment to determine work and working time preferences of household members in different household types under different social policy conditions. This will reveal whether activating or compensatory social policy measures are more effective in reducing the poverty risk of employed persons given the labor supply preferences of households. Secondly, the project will trace the longer-term paths of working people into and out of poverty that result from adjustment strategies in the labor supply of households. Using representative survey data and new methods that combine sequence and event data analysis, allows to identify longitudinal dynamics of in-work poverty risk in different socio-political contexts. This analytical approach enables an approximation of causal processes that lead to in-work poverty and provides empirical evidence for the development of theory on the dynamics of social inequality over the life course and for the formulation of social policy recommendations. Against the backdrop of the COVID-19 pandemic, it can be assumed that both the overall poverty rate and the poverty rate of those in employment will increase as a result of rising unemployment, short-time work and marginal employment. The results of the project are thus of particular relevance in post-COVID-19 labor markets to protect vulnerable households from long-term and extreme poverty.
+This research project aims to address two questions from a country-comparative perspective: 1) how decision-making processes about the labor supply of household members are related to the poverty risk of employed persons and 2) how the labor supply of households influences poverty risks of employed persons over the life course in different welfare states. The labor supply of households should be particularly decisive for the poverty risk of working people when decommodification is declining and defamilization is underdeveloped. 
 
-Principal Investigators: Anette Fasang, Emanuela Struffolino, Asaf Levanon
+This project compares Italy, with strongly declining decommodification and weak defamilization in the 1990s and 2000s, with Germany, where the decline in decommodification was much weaker and was accompanied by increasing defamilization. Empirically, the first part of the project consists of conducting a survey experiment to determine work and working time preferences of household members in different household types under different social policy conditions. This will reveal whether activating or compensatory social policy measures are more effective in reducing the poverty risk of employed persons given the labor supply preferences of households. Secondly, the project will trace the longer-term paths of working people into and out of poverty that result from adjustment strategies in the labor supply of households. 
 
-Funding: Deutsche Forschungsgesellschaft (DFG), ≈ 300,000 Euros
+Using representative survey data and new methods that combine sequence and event data analysis, allows to identify longitudinal dynamics of in-work poverty risk in different socio-political contexts. This analytical approach enables an approximation of causal processes that lead to in-work poverty and provides empirical evidence for the development of theory on the dynamics of social inequality over the life course and for the formulation of social policy recommendations. Against the backdrop of the COVID-19 pandemic, it can be assumed that both the overall poverty rate and the poverty rate of those in employment will increase as a result of rising unemployment, short-time work and marginal employment. The results of the project are thus of particular relevance in post-COVID-19 labor markets to protect vulnerable households from long-term and extreme poverty.
 
-Start: 1. October 2022 - ongoing
+Principal Investigators: Anette Fasang, Emanuela Struffolino, Asaf Levanon.
 
+Funding: Deutsche Forschungsgesellschaft (DFG), ≈ 340,000 Euros.
 
+1. October 2022 - ongoing
 
+---
 
 <span style="color: #FF4785;"><span style="font-size: 24px;">**Haushaltsstrukturen und ökonomische Risiken während der COVID-19 Pandemie in Ost- und Westdeutschland: Kompensation oder Akkumulation? (KOMPAKK)**</span></span>
 
@@ -31,9 +49,27 @@ Dissemination and reports:
   * Fasang, Anette, Martin Gädecke, Emanuela Struffolino und Hannah Zagel: [„Mit Risiken rechnen. Sozialpolitik muss Individuen ebenso im Blick haben wie ihr Zusammenleben in Haushalten"](/download/kompakk1.pdf), WZB Mitteilungen 170.
 
 
-Principal Investigators: Anette Fasang, Emanuela Struffolino, Hannah Zagel
+Principal Investigators: Anette Fasang, Emanuela Struffolino, Hannah Zagel.
 
-Funding: FIS – Fördernetzwerk interdisziplinäre Sozialpolitikforschung and Bundesministerium für Arbeit und Soziales, ≈ 70,000 Euros
+Funding: FIS – Fördernetzwerk interdisziplinäre Sozialpolitikforschung and Bundesministerium für Arbeit und Soziales, ≈ 70,000 Euros.
 
-Start: 1. September 2020 - 1 July 2022
+1. September 2020 - 1. July 2022
+
+---
+
+<span style="color: #FF4785;"><span style="font-size: 24px;">**Understanding Family Demographic Processes and In-Work Poverty in Europe**</span></span>
+
+
+In-work poverty is a growing issue in Europe, challenging traditional work-based anti-poverty strategies. The working poor—employed individuals in households below the poverty threshold—undermine the meritocratic principle legitimizing inequality in liberal societies. While most research links in-work poverty to structural (education, social class) and ascriptive (gender, race) factors, family demographic processes like leaving home, parenthood, marriage, and divorce are closely tied to labour market outcomes. It is thus essential to examine employment, poverty, and family transitions together.
+
+This project moves beyond conventional approaches by investigating how family demographic changes influence the risk of in-work poverty across the life course. Macro factors like economic restructuring, technological change, and welfare policies, and micro factors like gender, education, job type, and family structure, have all been linked to in-work poverty. Yet, no comparative research has studied how these family-related risks vary by age and welfare context.
+
+We aim to make three key contributions: a systematic review of family-related in-work poverty risks; a life-course and gender-based analysis using CNEF data across western democracies; and a comparison between Germany and the UK to evaluate the effectiveness of different welfare approaches in mitigating the impact of parenthood and divorce on in-work poverty.
+
+Principal Investigators: Emanuela Struffolino, Zachary Van Winkle, Johannes
+Giesecke, Christiaan Monden.
+
+Funding: Oxford-Berlin Research Partnership 2019-2020, 14,000 Euros.
+
+15. February 2019 - 15. August 2020
 

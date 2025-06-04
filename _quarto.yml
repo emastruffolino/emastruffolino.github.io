@@ -21,8 +21,8 @@ website:
         text: Publications
       - href: progress.html
         text: "In progress"
-      #- href: research
-       # text: Research
+      - href: research.html
+        text: Research
       - href: dissemination.html
         text: Dissemination
       - href: teaching.html

@@ -2,4 +2,38 @@
 title: "Research"
 ---
 
-<span style="color: #FF4785;">**stay tuned...**</span>
+<span style="color: #FF4785;"><span style="font-size: 24px;">**Households' labor supply arrangements and in-work poverty: longitudinal dynamics in a cross-country comparison**</span></span>
+
+
+This research project aims to address two questions from a country-comparative perspective: 1) how decision-making processes about the labor supply of household members are related to the poverty risk of employed persons and 2) how the labor supply of households influences poverty risks of employed persons over the life course in different welfare states. The labor supply of households should be particularly decisive for the poverty risk of working people when decommodification is declining and defamilization is underdeveloped. This project compares Italy and Israel, with strongly declining decommodification and weak defamilization in the 1990s and 2000s, with Germany, where the decline in decommodification was much weaker and was accompanied by increasing defamilization. Empirically, the first part of the project consists of conducting a survey experiment to determine work and working time preferences of household members in different household types under different social policy conditions. This will reveal whether activating or compensatory social policy measures are more effective in reducing the poverty risk of employed persons given the labor supply preferences of households. Secondly, the project will trace the longer-term paths of working people into and out of poverty that result from adjustment strategies in the labor supply of households. Using representative survey data and new methods that combine sequence and event data analysis, allows to identify longitudinal dynamics of in-work poverty risk in different socio-political contexts. This analytical approach enables an approximation of causal processes that lead to in-work poverty and provides empirical evidence for the development of theory on the dynamics of social inequality over the life course and for the formulation of social policy recommendations. Against the backdrop of the COVID-19 pandemic, it can be assumed that both the overall poverty rate and the poverty rate of those in employment will increase as a result of rising unemployment, short-time work and marginal employment. The results of the project are thus of particular relevance in post-COVID-19 labor markets to protect vulnerable households from long-term and extreme poverty.
+
+Principal Investigators: Anette Fasang, Emanuela Struffolino, Asaf Levanon
+
+Funding: Deutsche Forschungsgesellschaft (DFG), ≈ 300,000 Euros
+
+Start: 1. October 2022 - ongoing
+
+
+
+
+<span style="color: #FF4785;"><span style="font-size: 24px;">**Haushaltsstrukturen und ökonomische Risiken während der COVID-19 Pandemie in Ost- und Westdeutschland: Kompensation oder Akkumulation? (KOMPAKK)**</span></span>
+
+*Household structures and economic risks during the COVID-19 pandemic in East and West Germany: Compensation or accumulation?*
+
+The economic consequences of the COVID-19 pandemic result in income losses for many people and increase the risk of poverty. Household structures can exacerbate or mitigate these risks, for example, through the number of employed adults or minor children in the household. Social policy measures can offset risks. This project investigates the unequal distribution of economic risks and compensation options in households in East and West Germany during the COVID-19 pandemic and evaluates social policy intervention strategies with regard to risk distribution.
+
+
+Dissemination and reports: 
+
+  * Struffolino, Emanuela, Hannah Zagel, Jonas Braun und Martin Gädecke: [Teleworkability in the first wave of the COVID-19 pandemic in Germany: A household perspective](/download/kompakk3.pdf) 
+  * Zagel, Hannah, Emanuela Struffolino und Martin Gädecke: [Wirtschaftszweige im Lockdown während der ersten Welle der Covid-19 Pandemie: ein Vergleich zwischen den Bundesländern](/download/kompakk2.pdf), FIS-Briefing (Fördernetzwerk Interdisziplinäre Sozialpolitikforschung) 
+  * Zagel, Hannah, Emanuela Struffolino und Martin Gädecke: [Sectors in lockdown in the first wave of the Covid-19 pandemic across federal states in Germany](/download/kompakk4.pdf) 
+  * Fasang, Anette, Martin Gädecke, Emanuela Struffolino und Hannah Zagel: [„Mit Risiken rechnen. Sozialpolitik muss Individuen ebenso im Blick haben wie ihr Zusammenleben in Haushalten"](/download/kompakk1.pdf), WZB Mitteilungen 170.
+
+
+Principal Investigators: Anette Fasang, Emanuela Struffolino, Hannah Zagel
+
+Funding: FIS – Fördernetzwerk interdisziplinäre Sozialpolitikforschung and Bundesministerium für Arbeit und Soziales, ≈ 70,000 Euros
+
+Start: 1. September 2020 - 1 July 2022
+

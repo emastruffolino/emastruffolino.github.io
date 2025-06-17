@@ -12,7 +12,8 @@ format:
 
 - **Sequence analysis for the social sciences**
 
-  - GESIS Training Courses (with Marcel Raab) 2005 (planned), 2024, 2023, 2022, 2021, 2020, 2019, 2018.
+  - LIfBi and University of Bamberg, 2025.
+  - GESIS Training Courses, yearly from 2018 to 2025 (planned). 
   - University of Michigan, Population Dynamics and Health Program, 2022.
   - INVEST, University of Turku, 2022.
   - Humboldt-Universität zu Berlin, 2020.
@@ -20,7 +21,7 @@ format:
 
 <span style="color: #FF4785;">**Doctoral programs**</span>
 
-- **Longitudinal and Multilevel Analysis for Social Research**, ESOL-NASP, Economic Sociology, Organization and Labor Studies - Network for the Advancement of Social and Political Studies, University of Milan, 2024, 2025.
+- **Longitudinal and Multilevel Analysis for Social Research**, ESOL-NASP, Economic Sociology, Organization and Labor Studies - Network for the Advancement of Social and Political Studies, University of Milan, 2025, 2024.
 
 - **Panel data analysis for the social sciences**, ESOL-NASP, Economic Sociology, Organization and Labor Studies - Network for the Advancement of Social and Political Studies, University of Milan, 2022, 2021.
 
@@ -44,10 +45,10 @@ format:
 
 <span style="color: #FF4785;">**Bachelor programs**</span>
 
-- **Sociologia dello sviluppo economico locale**, University of Milan, Scienze per la globalizzazione (GLO), 2023, 2024, 2025,
+- **Sociologia dello sviluppo economico locale**, University of Milan, Scienze per la globalizzazione (GLO), 2023-2025.
 
 - **Sistemi sociali comparati**, University of Milan, Scienze internazionali e istituzioni europee (SIE), 2022.
 
 - **Gender inequality in education and employment**, Humboldt-Universität zu Berlin, 2020.
 
-- Tutorials of the lecture **Microsociology and demography** bz A.E. Fasang, Humboldt-Universität zu Berlin, 2015, 2016, 2017, 2018, 2019, 2020.
+- Tutorials of the lecture **Microsociology and demography** bz A.E. Fasang, Humboldt-Universität zu Berlin, 2015-2020.

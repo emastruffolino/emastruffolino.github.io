@@ -1,5 +1,11 @@
 ---
 title: "Dissemination"
+
+format:
+  html:
+    page-layout: full
+    toc: true
+    
 ---
 
 <span style="color: #FF4785;">**2024**</span>

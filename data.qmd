@@ -1,5 +1,11 @@
 ---
 title: "Data"
+
+format:
+  html:
+    page-layout: full
+    toc: true
+    
 ---
 
 - **Struffolino E.** (2023), **ISTAT absolute poverty thresholds and data report**, UNIMI Dataverse, Version 2.0.0, [access here](https://dataverse.unimi.it/dataset.xhtml?persistentId=doi:10.13130/RD_UNIMI/0UAGDY).

@@ -1,5 +1,11 @@
 ---
 title: "Projects"
+
+format:
+  html:
+    page-layout: full
+    toc: true
+    
 ---
 
 <span style="color: #54278f;"><span style="font-size: 24px;">As PI (details below):</span>

@@ -27,6 +27,8 @@ format:
 
 <span style="color: #FF4785;">**Master programs**</span>
 
+- **Sociologia dei processi economici e del lavoro**, University of Milan, Management professionale/Scienze delle professioni sanitarie tecniche assistenziali, 2026. 
+
 - **In-work poverty in Europe and in the US**, Humboldt-Universität zu Berlin, 2021.
 
 - **Values and culture in European societies**, Freie Universität Berlin, 2020.
@@ -44,6 +46,12 @@ format:
 - **Event-history analysis: an introduction**, Humboldt-Universität zu Berlin, 2017.
 
 <span style="color: #FF4785;">**Bachelor programs**</span>
+
+- **Sociologia dei processi economici e del lavoro**, University of Milan, Scienze della prevenzione e del management sanitario, 2026.
+
+- Lab **Il potere dei (e nei) dati**, University of Milan, Scienze per la globalizzazione (GLO), 2025-2026.
+
+- Lab **Metodologia della ricerca applicata**, University of Milan, Scienze per la globalizzazione (GLO), 2025.
 
 - **Sociologia dello sviluppo economico locale**, University of Milan, Scienze per la globalizzazione (GLO), 2023-2025.
 

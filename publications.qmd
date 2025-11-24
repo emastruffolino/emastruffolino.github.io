@@ -10,6 +10,7 @@ format:
 
 <span style="color: #FF4785;">**ARTICLES IN PEER-REVIEWED JOURNALS**</span>
 
+- Hornung M., **Struffolino E.** (2025), [**Partnership constellation and poverty beyond the migrant/non-migrant dichotomy: An exploratory, gendered analysis in Germany**](https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/1268), *Journal of Family Research*, vol. 37, pp. 395–417. Open access. [Replication files](https://ubp.uni-bamberg.de/jfr/index.php/jfr/article/view/1268).
 
 - Hornung M., **Struffolino E.**, Zagel H. (2025), [**Poverty among migrant, mixed, and non-migrant households:  the role of non-teleworkability and single-earnership in Germany**](https://www.tandfonline.com/doi/full/10.1080/1369183X.2024.2404219), *Journal of Ethnic and Migration Studies*, vol. 51(5), pp. 1294–1321. Open access. [Replication files](https://osf.io/n47fq/).
 
